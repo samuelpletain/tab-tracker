@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "C:/Users/semoule.LDS/dev/tab-tracker/node_modules/nodemon/bin/nodemon.js /src/app.js --exec 'npm run lint && node'",
-    "lint": "./node_modules/.bin/eslint **/*.js"
+    "start": "C:\\Users\\semoule.LDS\\dev\\tab-tracker\\server\\node_modules\\nodemon\\bin\\nodemon.js \\src\\app.js --exec 'npm run lint && node'",
+    "lint": "C:\\Users\\semoule.LDS\\dev\\tab-tracker\\server\\node_modules\\.bin\\eslint **\\*.js"
   },
   "keywords": [],
   "author": "",
